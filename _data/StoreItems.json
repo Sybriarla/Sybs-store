@@ -4881,7 +4881,7 @@
 	{
 		"abr": "applecider",
 		"price": 27,
-		"category": "Garden alcohol",
+		"category": "Drugs",
 		"defname": "cider"
 	},
 	{
@@ -6777,7 +6777,7 @@
 	{
 		"abr": "berrywine",
 		"price": 47,
-		"category": "Garden alcohol",
+		"category": "Drugs",
 		"defname": "VGP_BerryWine"
 	},
 	{
@@ -7989,7 +7989,7 @@
 	{
 		"abr": "brownale",
 		"price": 27,
-		"category": "Garden alcohol",
+		"category": "Drugs",
 		"defname": "BrownAle"
 	},
 	{
@@ -14655,7 +14655,7 @@
 	{
 		"abr": "fruitshine",
 		"price": 33,
-		"category": "Garden alcohol",
+		"category": "Drugs",
 		"defname": "Fruitshine"
 	},
 	{
@@ -19044,6 +19044,276 @@
 		"category": "Condiments",
 		"defname": "VCE_Ketchup"
 	},
+	{
+		"abr": "ankylosidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BMT_ChromaticAnkylosaurus"
+	},
+	{
+		"abr": "anthro",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Anthro"
+	},
+	{
+		"abr": "anthromeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Anthro"
+	},
+	{
+		"abr": "chromaticankylosaurus",
+		"price": 2533,
+		"category": "Animals",
+		"defname": "BMT_ChromaticAnkylosaurus"
+	},
+	{
+		"abr": "chromaticankylosaurusegg(fert.)",
+		"price": 500,
+		"category": "Art",
+		"defname": "BMT_ChromaticAnkylosaurusEggFertilized"
+	},
+	{
+		"abr": "chromaticankylosaurusegg(unfert.)",
+		"price": 500,
+		"category": "Art",
+		"defname": "BMT_ChromaticAnkylosaurusEggUnfertilized"
+	},
+	{
+		"abr": "chromaticdinohide",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "BMT_DinoHideChromatic"
+	},
+	{
+		"abr": "cryodrakon",
+		"price": 1583,
+		"category": "Animals",
+		"defname": "BMT_Cryodrakon"
+	},
+	{
+		"abr": "cryodrakonegg(fert.)",
+		"price": 102,
+		"category": "Eggs (fert.)",
+		"defname": "BMT_CryodrakonEggFertilized"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1508,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Grand"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1042,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Large"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 833,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Small"
+	},
+	{
+		"abr": "gardenfish",
+		"price": 3,
+		"category": "Garden meat",
+		"defname": "VG_GardenFish"
+	},
+	{
+		"abr": "khanziosword",
+		"price": 1000,
+		"category": "Heyran weaponry",
+		"defname": "Heyra_Swordmastersword"
+	},
+	{
+		"abr": "kikimorequeen",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_KikimoreQueen"
+	},
+	{
+		"abr": "imperialpowerarmourhelmet",
+		"price": 1058,
+		"category": "Imperial",
+		"defname": "OGI_Armour_Power_Helmet"
+	},
+	{
+		"abr": "kikimoretrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandKikimore"
+	},
+	{
+		"abr": "kikimorewarrior",
+		"price": 333,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWarrior"
+	},
+	{
+		"abr": "kikimoreworker",
+		"price": 167,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWorker"
+	},
+	{
+		"abr": "kineticfieldmanipulator",
+		"price": 1142,
+		"category": "Production",
+		"defname": "TETable"
+	},
+	{
+		"abr": "couchcenter",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchCenter"
+	},
+	{
+		"abr": "couchcorner",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchCorner"
+	},
+	{
+		"abr": "couchcornerinverted",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchCornerInv"
+	},
+	{
+		"abr": "couchleft",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchLeft"
+	},
+	{
+		"abr": "couchright",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchRight"
+	},
+	{
+		"abr": "counter",
+		"price": 38,
+		"category": "Furniture",
+		"defname": "Anon2CounterA"
+	},
+	{
+		"abr": "counterfull",
+		"price": 38,
+		"category": "Furniture",
+		"defname": "Anon2CounterAFull"
+	},
+	{
+		"abr": "cushionedchair",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "Anon2CushionedChair"
+	},
+	{
+		"abr": "dresser",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "Anon2Dresser"
+	},
+	{
+		"abr": "endtable",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "Anon2EndTable"
+	},
+	{
+		"abr": "endtable(lamp)",
+		"price": 135,
+		"category": "Furniture",
+		"defname": "Anon2EndTableLight"
+	},
+	{
+		"abr": "filecabinet",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "Anon2FileCabinet"
+	},
+	{
+		"abr": "kineticlance",
+		"price": 2942,
+		"category": "TE weapons",
+		"defname": "TE_KineticLance"
+	},
+	{
+		"abr": "kineticlongrifle",
+		"price": 1933,
+		"category": "TE weapons",
+		"defname": "TE_KineticLongRifle"
+	},
+	{
+		"abr": "kineticpistol",
+		"price": 900,
+		"category": "TE weapons",
+		"defname": "TE_KineticPistol"
+	},
+	{
+		"abr": "kineticrifle",
+		"price": 1700,
+		"category": "TE weapons",
+		"defname": "TE_KineticRifle"
+	},
+	{
+		"abr": "kineticsniperturret",
+		"price": 1833,
+		"category": "Security",
+		"defname": "Turret_SuvTurret"
+	},
+	{
+		"abr": "king’srobes",
+		"price": 297,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_KingsRobes"
+	},
+	{
+		"abr": "king'scrown",
+		"price": 260,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_KingsCrown"
+	},
+	{
+		"abr": "kitchensinkcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_KitchenSinkCabinet"
+	},
+	{
+		"abr": "kiteshield",
+		"price": 241,
+		"category": "Shields",
+		"defname": "VFEM_Shield_Kite"
+	},
+	{
+		"abr": "kitsune",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Kitsune"
+	},
+	{
+		"abr": "kiwi",
+		"price": 133,
+		"category": "Animals",
+		"defname": "BiomesIslands_KiwiBird"
+	},
+	{
+		"abr": "kiwi",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawKiwi"
+	},
+	{
+		"abr": "kiwiegg(fert.)",
+		"price": 42,
+		"category": "Eggs (fert.)",
+		"defname": "BiomesIslands_EggKiwiFertilized"
+	}
 	],
-	"total": 5866
+	"total": 5910
 }

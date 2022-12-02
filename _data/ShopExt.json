@@ -4374,6 +4374,55 @@
       "enabled": true,
       "name": "dwarf",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+$2500 Market value",
+          "+4.80 Move speed",
+          "+2.0C [3.6F] Minimum comfortable temperature",
+          "+35.0C [63.0F] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+60 Meat amount",
+          "+100% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+100% Flammability",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+90% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A weird being.",
+      "defName": "Anthro",
+      "enabled": true,
+      "name": "Anthro",
+      "price": 4167
     }
   ]
 }
