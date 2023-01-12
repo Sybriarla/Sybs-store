@@ -76,11 +76,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 15000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -98,6 +93,11 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{

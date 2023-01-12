@@ -486,60 +486,6 @@
     "version": null
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Garden Drinks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Oasis",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Islands",
-    "steamId": "2038001322",
-    "version": "1.4.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Prehistoric",
-    "steamId": "2860715703",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
@@ -1524,6 +1470,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "tikubonn",
     "name": "RimSeasoning",
     "steamId": "2212032458",
@@ -2376,10 +2328,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Archoran",
     "name": "Vanilla Plants Expanded - Auto Plow Patch",
     "steamId": "2497914485",
     "version": "1.2.1.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -2650,6 +2614,18 @@
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Drinks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
   },
   {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
